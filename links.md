@@ -1,3 +1,6 @@
+#markdown basics
+https://help.github.com/articles/markdown-basics/
+
 #Typing
 https://www.typing.com
 
