@@ -1,5 +1,5 @@
 ##two modes
-'i` for insert mode, and `esc` for normal mode
+`i` for insert mode, and `esc` for normal mode
 
 ##basic movement
 `h`to move cursor left
